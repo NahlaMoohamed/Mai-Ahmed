@@ -5,7 +5,7 @@ html {
 }
 body{
 	font-family: 'Josefin Slab', sans-serif !important;
-	color: white !important;
+	background-color: white;
 	color:  #e6004c !important;
 }
 .col{
@@ -14,7 +14,9 @@ body{
 #logo{
 	border-radius: 50%;
 }
-
+#intro{
+	background-color: rgba(105,105,105,0.2);
+}
 :root {
 font-size: 16px;
 }
