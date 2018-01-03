@@ -1,0 +1,46 @@
+
+/*body Style */
+html {
+	height:100%;
+}
+body{
+	font-family: 'Josefin Slab', sans-serif !important;
+	color: white !important;
+	color:  #e6004c !important;
+}
+.col{
+	width: 100% !important;
+}
+#logo{
+	border-radius: 50%;
+}
+
+:root {
+font-size: 16px;
+}
+
+h2 , h1 , a , .navbar-nav>li>a , .dark-color{
+	color:  #e6004c !important;
+}
+
+.margin-2{
+	margin: 2%;
+}
+
+.footer > a:hover{
+	background-color: rgba(255,230,234,0.4) !important;
+}
+
+.intend{
+	margin-left: 4%;
+}
+hr{
+	color:  #e6004c !important;
+	width: 18.75rem;
+	size: 0.1875rem !important;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
